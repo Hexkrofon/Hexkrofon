@@ -28,6 +28,7 @@
 
 Welcome to my GitHub profile!
 
+My name is Pniel Alfrado Salakay, usually called Aldo
 I'm an **Informatics Engineering student** who enjoys exploring
 technology, building projects, and learning new things along the way.
 
