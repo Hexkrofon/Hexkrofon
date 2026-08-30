@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.jpg" width="100%"/>
+
 # 👋 Hi, I'm Alfrado!
 
 ### 💻 Informatics Engineering Student
