@@ -106,24 +106,15 @@ I listen to **almost everything**, but I especially enjoy:
     <td>
       📷 <a href="https://www.instagram.com/alfrado.zip/"><b>Instagram</b></a>
     </td>
-    <td>
-      @alfrado.zip
-    </td>
   </tr>
   <tr>
     <td>
       🎵 <a href="https://open.spotify.com/user/312myxjbjk5toqxkfmik5gr2vuqm"><b>Spotify</b></a>
     </td>
-    <td>
-      My Profile
-    </td>
   </tr>
   <tr>
     <td>
       🎮 <a href="https://s.team/p/frvv-jvjm/dchgtkdb"><b>Steam</b></a>
-    </td>
-    <td>
-      My Profile
     </td>
   </tr>
 </table>
