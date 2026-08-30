@@ -64,8 +64,6 @@ technology, building projects, and learning new things along the way.
 
 ## 🎵 Music Taste
 
-Music is a big part of my daily life.
-
 I listen to **almost everything**, but I especially enjoy:
 
 🎸 **Rock**  
@@ -82,8 +80,6 @@ I listen to **almost everything**, but I especially enjoy:
 - 💚 Green Day
 - 🥀 Deftones
 - 🛹 Blink-182
-
-> 🎵 Coding without music feels incomplete.
 
 ---
 
