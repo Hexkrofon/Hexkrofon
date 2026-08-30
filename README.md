@@ -61,17 +61,17 @@ I listen to **almost everything**, but I especially enjoy:
 🎸 **Rock**  
 🤘 **Metal**  
 ⚡ **Punk**  
-🎧 **Alternative / Electronic**
+🎧 **Alternative**
 
 ### 🎶 Artists I Enjoy
 
-- 🎸 Soundgarden
-- 🔥 Audioslave
-- ⚡ Muse
 - 🖤 Linkin Park
-- 🎵 The Beatles
-- 🎧 Avicii
-- 🌌 The Chainsmokers
+- 🌹 Guns N' Roses
+- 💀 Suicide Silence
+- 🤡 Slipknot
+- 💚 Green Day
+- 🥀 Deftones
+- 🛹 Blink 182
 
 > 🎵 Coding without music feels incomplete.
 
