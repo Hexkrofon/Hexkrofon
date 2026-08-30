@@ -97,6 +97,26 @@ I listen to **almost everything**, but I especially enjoy:
 
 ---
 
+---
+
+## 🌐 Social Media
+
+<div align="center">
+
+<a href="https://www.instagram.com/alfrado.zip/">
+  <img src="https://img.shields.io/badge/Instagram-@alfrado.zip-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/user/312myxjbjk5toqxkfmik5gr2vuqm">
+  <img src="https://img.shields.io/badge/Spotify-My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<a href="https://s.team/p/frvv-jvjm/dchgtkdb">
+  <img src="https://img.shields.io/badge/Steam-My%20Profile-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+
+</div>
+
 ## 💭 Quote
 
 > "The important thing is to keep moving forward."
