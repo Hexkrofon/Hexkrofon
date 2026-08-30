@@ -121,7 +121,7 @@ I listen to **almost everything**, but I especially enjoy:
 
 </div>
 
-## 💭 Quote
+## 💭 Quotes
 
 <p align="center">
   <img src="./assets/Quotes.jpg" width="80%">
