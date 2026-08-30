@@ -101,13 +101,32 @@ I listen to **almost everything**, but I especially enjoy:
 
 <div align="center">
 
-<a href="https://www.instagram.com/alfrado.zip/">
-<img src="https://img.shields.io/badge/Instagram-@alfrado.zip-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><a href="https://open.spotify.com/user/312myxjbjk5toqxkfmik5gr2vuqm">
-<img src="https://img.shields.io/badge/Spotify-My_Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a><a href="https://s.team/p/frvv-jvjm/dchgtkdb">
-<img src="https://img.shields.io/badge/Steam-My_Profile-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
+<table>
+  <tr>
+    <td>
+      📷 <a href="https://www.instagram.com/alfrado.zip/"><b>Instagram</b></a>
+    </td>
+    <td>
+      @alfrado.zip
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🎵 <a href="https://open.spotify.com/user/312myxjbjk5toqxkfmik5gr2vuqm"><b>Spotify</b></a>
+    </td>
+    <td>
+      My Profile
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🎮 <a href="https://s.team/p/frvv-jvjm/dchgtkdb"><b>Steam</b></a>
+    </td>
+    <td>
+      My Profile
+    </td>
+  </tr>
+</table>
 
 </div>
 
