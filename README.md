@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/UpBanner.jpg" width="100%"/>
+<img src="./assets/UpBanner.png" width="100%"/>
 
 # 👋 Hi, I'm Alfrado!
 
@@ -100,6 +100,6 @@ I listen to **almost everything**, but I especially enjoy:
 
 <br>
 
-<img src="./assets/DownBanner.jpg" width="100%"/>
+<img src="./assets/DownBanner.png" width="100%"/>
 
 </div>
