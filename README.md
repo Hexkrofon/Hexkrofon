@@ -1,14 +1,17 @@
-
-
 <div align="center">
 
-<img src="./assets/UpBanner.png" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/UpBanner-Dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/UpBanner-Light.png">
+  <img src="./assets/UpBanner-Dark.png" width="100%">
+</picture>
 
 # 👋 Hi, I'm Alfrado!
 
 ### 💻 Informatics Engineering Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Engineering+Student;Web+Development;Game+%26+Anime+Enjoyer" />
+
 <br>
 
 </div>
@@ -72,7 +75,7 @@ I listen to **almost everything**, but I especially enjoy:
 - 🤡 Slipknot
 - 💚 Green Day
 - 🥀 Deftones
-- 🛹 Blink 182
+- 🛹 Blink-182
 
 > 🎵 Coding without music feels incomplete.
 
@@ -100,6 +103,10 @@ I listen to **almost everything**, but I especially enjoy:
 
 <br>
 
-<img src="./assets/DownBanner.png" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/DownBanner-Dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/DownBanner-Light.png">
+  <img src="./assets/DownBanner-Dark.png" width="100%">
+</picture>
 
 </div>
