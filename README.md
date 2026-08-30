@@ -1,18 +1,31 @@
+<div align="center">
+
 # 👋 Hi, I'm Alfrado!
 
 ### 💻 Informatics Engineering Student
 
-Welcome to my github account
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Development+Enthusiast;IoT+Enthusiast;Gamer+%26+Manga+Reader;Always+Learning+Something+New" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%"/>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
+Welcome to my GitHub profile!
+
+I'm an **Informatics Engineering student** who enjoys exploring
+technology, building projects, and learning new things along the way.
+
 - 🎓 Informatics Engineering Student
 - 💻 Interested in Web Development and IoT
-- 🤖 Currently exploring Web Development
-- 🎮 Gamer, manga, & anime lover
-- 🎵 I listen to everythinh
+- 🌐 Currently exploring Web Development
+- 🎮 Gamer, manga & anime lover
+- 🎵 I listen to almost everything
 - 🌱 Always learning something new
 
 ---
@@ -28,7 +41,7 @@ Welcome to my github account
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
 </p>
 
 ### 🔧 Tools
@@ -39,22 +52,53 @@ Welcome to my github account
 
 ---
 
+## 🎵 Music Taste
+
+Music is a big part of my daily life.
+
+I listen to **almost everything**, but I especially enjoy:
+
+🎸 **Rock**  
+🤘 **Metal**  
+⚡ **Punk**  
+🎧 **Alternative / Electronic**
+
+### 🎶 Artists I Enjoy
+
+- 🎸 Soundgarden
+- 🔥 Audioslave
+- ⚡ Muse
+- 🖤 Linkin Park
+- 🎵 The Beatles
+- 🎧 Avicii
+- 🌌 The Chainsmokers
+
+> 🎵 Coding without music feels incomplete.
+
+---
 
 ## 🎮 Fun Facts
 
 - 🎮 I enjoy playing video games.
 - 🎵 My playlist contains a lot of Rock, Metal, and Punk.
-- 🎸 I play bass (Not very good)
-- 📖 Love reading book, especially manga
+- 🎸 I play bass *(not very good... yet)*.
+- 📖 I love reading books, especially manga.
+- 🍿 I enjoy watching anime in my free time.
 
 ---
 
 ## 💭 Quote
 
-> 
+> "The important thing is to keep moving forward."
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
