@@ -123,7 +123,9 @@ I listen to **almost everything**, but I especially enjoy:
 
 ## 💭 Quote
 
-> "The important thing is to keep moving forward."
+<p align="center">
+  <img src="./assets/Quotes.jpg" width="80%">
+</p>
 
 ---
 
