@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" width="100%"/>
+<img src="./assets/UpBanner.jpg" width="100%"/>
 
 # 👋 Hi, I'm Alfrado!
 
@@ -8,8 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engineering+Student;Web+Development;Game+%26+Anime+Enjoyer" />
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%"/>
 
 </div>
 
